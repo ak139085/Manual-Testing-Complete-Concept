@@ -120,33 +120,6 @@ Initial investment is more because test team & development team involves right f
 
 Whenever there is change in requirement, the same procedure continues. It leads more documentation work.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Why SDLC
 --------
 Here, are prime reasons why SDLC is important for developing a software system.
@@ -158,25 +131,3 @@ Increases visibility of project planning to all involved stakeholders of the dev
 Increased and enhance development speed
 Improved client relations
 Helps you to decrease project risk and project management plan overhead
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
