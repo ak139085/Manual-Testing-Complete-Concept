@@ -30,23 +30,3 @@ Test Plan Template
 11) Risk and Contingencies
 12) Assumptions
 13) Review and Approvals
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
