@@ -72,24 +72,3 @@ No -> Rarely defect appears
 20) Approved by: Signature of Project Manager (PM)
 
 Defect Age: The time gap between “reported on” & “resolved on”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
